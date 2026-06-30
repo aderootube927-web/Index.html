@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Ismaelomar] 👋
 
-Welcome to my GitHub profile! I'm a passionate **[Your Profession/Title]** dedicated to building [your focus area]. With [X years] of experience in [industry/field], I love solving complex problems and creating impactful solutions.
+Welcome to my GitHub profile! I'm a passionate **[Your Profession/Title]** dedicated to building [your focus area]. With [3 years] of experience in [industry/field], I love solving complex problems and creating impactful solutions.
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **[Your Profession/Title]** dedic
 - 🎓 Studied **[Education/Background]**
 - 🌱 Always learning and exploring new technologies
 - 💡 Interested in **[Key Interest Areas]**
-- 📍 Based in **[Location]**
+- 📍 Based in **[Location]ethiopia 
 
 ---
 
